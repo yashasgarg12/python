@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget
   Widget build(BuildContext context)
   {
     return MaterialApp(
-      title:"Word Generator",
+      title:"Word Generator-102117012",
       home: RandomWords()
     );//MaterialApp
   }
